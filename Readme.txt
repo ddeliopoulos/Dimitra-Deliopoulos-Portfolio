@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+https://ddeliopoulos.github.io/Dimitra-Deliopoulos-Portfolio/
 
 Template Name: MyResume
 Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
